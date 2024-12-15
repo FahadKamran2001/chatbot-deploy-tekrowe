@@ -1,0 +1,14 @@
+fastapi
+jinja2
+uvicorn
+aiofiles
+python-multipart
+python-dotenv
+langchain
+langchain_community
+langchain_openai
+langchain-chroma
+fastapi
+uvicorn
+pydantic
+pypdf
